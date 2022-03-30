@@ -1,4 +1,4 @@
-# coinsdo-wallet-Android
+# coinsdo-wallet
 ## V1.9.1-release
 
 
